@@ -1,10 +1,15 @@
 # 🎨 ComfyUI Quick Merge
 
 A high-performance, modular image layering, blending, and batch execution engine for ComfyUI. Replace complex multi-node canvas workflows with a single, production-grade layer processing hub engineered for heavy datasets and memory safety.
+<img width="1518" height="848" alt="Screenshot 2026-07-19 234816" src="https://github.com/user-attachments/assets/0933234b-079a-4b9a-aab3-40343f2797de" />
+<img width="1251" height="952" alt="Screenshot 2026-07-19 234744" src="https://github.com/user-attachments/assets/43151b35-7cfc-4730-9d87-4db2e7a4bd77" />
 
----
+
+<img width="1534" height="927" alt="Screenshot 2026-07-19 223251" src="https://github.com/user-attachments/assets/2c483cee-d4f6-42fa-b4de-6222d5e99818" />
+<img width="1583" height="946" alt="Screenshot 2026-07-19 214958" src="https://github.com/user-attachments/assets/f83fced3-0579-4feb-b452-14cb8f25726c" />
 
 ## 🚀 Key Use Cases
+---
 
 * **E-Commerce Automation:** Seamlessly clip product variants, fix layer placement offsets, and overlay items across variable marketing backgrounds.
 * **Concept Art Pre-Compositing:** Rapidly pair generated character assets over different landscape sheets to evaluate lighting, shadows, and composition grids.
