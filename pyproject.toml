@@ -1,7 +1,8 @@
 [project]
 name = "ComfyUI-Quick-Merge"
-version = "1.0.0"
+version = "1.0.1"
 description = "High-performance modular layer blending and folder batch processing for ComfyUI."
+license = { text = "MIT License" }
 authors = [
     { name = "stompy001", email = "leeren55555@gmail.com" }
 ]
@@ -10,6 +11,9 @@ dependencies = [
     "torchvision",
     "spandrel"
 ]
+
+[project.urls]
+Repository = "https://github.com/stompy001/ComfyUI-Quick-Merge"
 
 [tool.comfy]
 PublisherId = "stompy001"
