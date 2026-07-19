@@ -1,0 +1,17 @@
+[project]
+name = "ComfyUI-Quick-Merge"
+version = "1.0.0"
+description = "High-performance modular layer blending and folder batch processing for ComfyUI."
+authors = [
+    { name = "stompy001", email = "leeren55555@gmail.com" }
+]
+dependencies = [
+    "transformers>=4.38.0",
+    "torchvision",
+    "spandrel"
+]
+
+[tool.comfy]
+PublisherId = "stompy001"
+DisplayName = "🎨 Quick Merge"
+Icon = "🎨"
